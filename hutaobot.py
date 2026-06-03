@@ -69,10 +69,12 @@ def get_history(user_id: int) -> list[dict]:
 
 
 async def ask_mimo(messages: list[dict]) -> str:
-    """调用 Mimo API 获取回复"""
+    """调用 API 获取回复"""
     headers = {
         "Authorization": f"Bearer {API_KEY}",
         "Content-Type": "application/json",
+        "HTTP-Referer": "https://github.com/wjh2553348280-blip/tgbot",
+        "X-Title": "Telegram Bot",
     }
     payload = {
         "model": MODEL,
