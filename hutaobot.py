@@ -19,10 +19,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============ 配置 ============
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E")
-API_URL = os.getenv("API_URL", "https://api.xiaomimimo.com/v1/chat/completions")
-API_KEY = os.getenv("API_KEY", "sk-ce4sn7tljo8fu37shy24yyzlvygtahk5uzn3ad0z63fm31j1")
-MODEL = os.getenv("MODEL", "mimo-v2.5")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+API_URL = os.getenv("API_URL", "https://openrouter.ai/api/v1/chat/completions")
+API_KEY = os.getenv("API_KEY")
+MODEL = os.getenv("MODEL", "meta-llama/llama-3-8b-instruct:free")
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
 # 系统提示词 —— 允许18+内容
