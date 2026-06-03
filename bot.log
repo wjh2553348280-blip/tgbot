@@ -1,0 +1,147 @@
+2026-06-03 17:47:38,334 - aiogram.dispatcher - INFO - Start polling
+2026-06-03 17:47:39,417 - aiogram.dispatcher - INFO - Run polling for bot @hutaogiantessbot id=8633995913 - '晓冰'
+2026-06-03 17:47:58,076 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-06-03 17:47:58,078 - __main__ - ERROR - API 请求出错：404
+2026-06-03 17:47:58,078 - __main__ - ERROR - 详情：{"error":{"code":"404","message":"No endpoints found that support image input","param":"","type":""}}
+2026-06-03 17:47:58,618 - aiogram.event - INFO - Update id=133686008 is handled. Duration 5087 ms by bot id=8633995913
+2026-06-03 17:48:01,865 - aiogram.event - INFO - Update id=133686009 is handled. Duration 551 ms by bot id=8633995913
+2026-06-03 17:48:09,749 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2026-06-03 17:48:09,750 - __main__ - ERROR - API 请求出错：404
+2026-06-03 17:48:09,750 - __main__ - ERROR - 详情：{"error":{"code":"404","message":"No endpoints found that support image input","param":"","type":""}}
+2026-06-03 17:48:10,290 - aiogram.event - INFO - Update id=133686010 is handled. Duration 4014 ms by bot id=8633995913
+2026-06-03 17:50:46,928 - aiogram.dispatcher - INFO - Start polling
+2026-06-03 17:50:47,892 - aiogram.dispatcher - INFO - Run polling for bot @hutaogiantessbot id=8633995913 - '晓冰'
+2026-06-03 17:51:17,700 - aiogram.event - INFO - Update id=133686011 is handled. Duration 1397 ms by bot id=8633995913
+2026-06-03 17:51:32,995 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 17:51:33,519 - aiogram.event - INFO - Update id=133686012 is handled. Duration 9782 ms by bot id=8633995913
+2026-06-03 17:53:56,431 - aiogram.dispatcher - INFO - Start polling
+2026-06-03 17:53:57,645 - aiogram.dispatcher - INFO - Run polling for bot @hutaogiantessbot id=8633995913 - '晓冰'
+2026-06-03 17:55:04,447 - aiogram.dispatcher - INFO - Start polling
+2026-06-03 17:55:05,650 - aiogram.dispatcher - INFO - Run polling for bot @hutaogiantessbot id=8633995913 - '晓冰'
+2026-06-03 17:55:41,800 - aiogram.event - INFO - Update id=133686013 is handled. Duration 1538 ms by bot id=8633995913
+2026-06-03 17:56:00,685 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 17:56:01,215 - aiogram.event - INFO - Update id=133686014 is handled. Duration 7633 ms by bot id=8633995913
+2026-06-03 17:57:48,208 - aiogram.dispatcher - INFO - Start polling
+2026-06-03 17:57:49,642 - aiogram.dispatcher - INFO - Run polling for bot @hutaogiantessbot id=8633995913 - '晓冰'
+2026-06-03 17:58:08,573 - aiogram.event - INFO - Update id=133686015 is handled. Duration 1254 ms by bot id=8633995913
+2026-06-03 17:58:16,202 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 17:58:16,721 - aiogram.event - INFO - Update id=133686016 is handled. Duration 4724 ms by bot id=8633995913
+2026-06-03 17:58:53,799 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 17:58:54,316 - aiogram.event - INFO - Update id=133686017 is handled. Duration 3529 ms by bot id=8633995913
+2026-06-03 17:59:15,239 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 17:59:15,795 - aiogram.event - INFO - Update id=133686018 is handled. Duration 4819 ms by bot id=8633995913
+2026-06-03 17:59:36,961 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 17:59:37,512 - aiogram.event - INFO - Update id=133686019 is handled. Duration 4712 ms by bot id=8633995913
+2026-06-03 18:00:13,161 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:00:13,748 - aiogram.event - INFO - Update id=133686020 is handled. Duration 6195 ms by bot id=8633995913
+2026-06-03 18:01:01,300 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:01:01,830 - aiogram.event - INFO - Update id=133686021 is handled. Duration 8361 ms by bot id=8633995913
+2026-06-03 18:01:32,887 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:01:33,428 - aiogram.event - INFO - Update id=133686022 is handled. Duration 3962 ms by bot id=8633995913
+2026-06-03 18:02:44,519 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:02:45,083 - aiogram.event - INFO - Update id=133686023 is handled. Duration 4241 ms by bot id=8633995913
+2026-06-03 18:03:07,079 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:03:07,593 - aiogram.event - INFO - Update id=133686024 is handled. Duration 4463 ms by bot id=8633995913
+2026-06-03 18:03:30,474 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:03:30,998 - aiogram.event - INFO - Update id=133686025 is handled. Duration 3503 ms by bot id=8633995913
+2026-06-03 18:03:46,599 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:03:47,123 - aiogram.event - INFO - Update id=133686026 is handled. Duration 4523 ms by bot id=8633995913
+2026-06-03 18:04:14,184 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:04:14,712 - aiogram.event - INFO - Update id=133686027 is handled. Duration 6517 ms by bot id=8633995913
+2026-06-03 18:04:55,879 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:04:56,406 - aiogram.event - INFO - Update id=133686028 is handled. Duration 4013 ms by bot id=8633995913
+2026-06-03 18:05:12,518 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:05:13,056 - aiogram.event - INFO - Update id=133686029 is handled. Duration 5663 ms by bot id=8633995913
+2026-06-03 18:05:45,000 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:05:45,559 - aiogram.event - INFO - Update id=133686030 is handled. Duration 6481 ms by bot id=8633995913
+2026-06-03 18:06:01,799 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:06:02,343 - aiogram.event - INFO - Update id=133686031 is handled. Duration 5353 ms by bot id=8633995913
+2026-06-03 18:06:25,967 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:06:26,498 - aiogram.event - INFO - Update id=133686032 is handled. Duration 5065 ms by bot id=8633995913
+2026-06-03 18:07:01,317 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:07:01,845 - aiogram.event - INFO - Update id=133686033 is handled. Duration 4526 ms by bot id=8633995913
+2026-06-03 18:07:29,797 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:07:31,424 - aiogram.event - INFO - Update id=133686034 is handled. Duration 6650 ms by bot id=8633995913
+2026-06-03 18:08:06,110 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:08:07,702 - aiogram.event - INFO - Update id=133686035 is handled. Duration 6663 ms by bot id=8633995913
+2026-06-03 18:08:26,918 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:08:27,982 - aiogram.event - INFO - Update id=133686036 is handled. Duration 4815 ms by bot id=8633995913
+2026-06-03 18:08:46,116 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:08:46,640 - aiogram.event - INFO - Update id=133686037 is handled. Duration 6273 ms by bot id=8633995913
+2026-06-03 18:09:08,997 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:09:10,426 - aiogram.event - INFO - Update id=133686038 is handled. Duration 5979 ms by bot id=8633995913
+2026-06-03 18:09:40,677 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:09:41,846 - aiogram.event - INFO - Update id=133686039 is handled. Duration 7093 ms by bot id=8633995913
+2026-06-03 18:09:56,447 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:09:56,979 - aiogram.event - INFO - Update id=133686040 is handled. Duration 4777 ms by bot id=8633995913
+2026-06-03 18:10:12,037 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:10:12,915 - aiogram.event - INFO - Update id=133686041 is handled. Duration 5367 ms by bot id=8633995913
+2026-06-03 18:10:47,548 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:10:48,098 - aiogram.event - INFO - Update id=133686042 is handled. Duration 4413 ms by bot id=8633995913
+2026-06-03 18:11:38,272 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:11:38,801 - aiogram.event - INFO - Update id=133686043 is handled. Duration 4755 ms by bot id=8633995913
+2026-06-03 18:12:08,463 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:12:09,014 - aiogram.event - INFO - Update id=133686044 is handled. Duration 4759 ms by bot id=8633995913
+2026-06-03 18:12:43,546 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:12:44,096 - aiogram.event - INFO - Update id=133686045 is handled. Duration 4100 ms by bot id=8633995913
+2026-06-03 18:13:23,876 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:13:24,402 - aiogram.event - INFO - Update id=133686046 is handled. Duration 6005 ms by bot id=8633995913
+2026-06-03 18:14:01,795 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:14:02,442 - aiogram.event - INFO - Update id=133686047 is handled. Duration 6246 ms by bot id=8633995913
+2026-06-03 18:14:38,737 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:14:39,262 - aiogram.event - INFO - Update id=133686048 is handled. Duration 6654 ms by bot id=8633995913
+2026-06-03 18:15:16,048 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 18:15:16,835 - aiogram.event - INFO - Update id=133686049 is handled. Duration 5954 ms by bot id=8633995913
+2026-06-03 20:49:08,948 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-06-03 20:49:08,949 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8633995913)
+2026-06-03 20:49:11,098 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:11,098 - aiogram.dispatcher - WARNING - Sleep for 1.542721 seconds and try again... (tryings = 1, bot id = 8633995913)
+2026-06-03 20:49:13,654 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:13,654 - aiogram.dispatcher - WARNING - Sleep for 1.893658 seconds and try again... (tryings = 2, bot id = 8633995913)
+2026-06-03 20:49:16,570 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:16,571 - aiogram.dispatcher - WARNING - Sleep for 2.505589 seconds and try again... (tryings = 3, bot id = 8633995913)
+2026-06-03 20:49:20,104 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:20,104 - aiogram.dispatcher - WARNING - Sleep for 3.118419 seconds and try again... (tryings = 4, bot id = 8633995913)
+2026-06-03 20:49:24,247 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:24,248 - aiogram.dispatcher - WARNING - Sleep for 4.106284 seconds and try again... (tryings = 5, bot id = 8633995913)
+2026-06-03 20:49:29,376 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:29,376 - aiogram.dispatcher - WARNING - Sleep for 4.962562 seconds and try again... (tryings = 6, bot id = 8633995913)
+2026-06-03 20:49:35,350 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:35,350 - aiogram.dispatcher - WARNING - Sleep for 4.925816 seconds and try again... (tryings = 7, bot id = 8633995913)
+2026-06-03 20:49:41,314 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:41,314 - aiogram.dispatcher - WARNING - Sleep for 4.915637 seconds and try again... (tryings = 8, bot id = 8633995913)
+2026-06-03 20:49:47,247 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:47,247 - aiogram.dispatcher - WARNING - Sleep for 5.148924 seconds and try again... (tryings = 9, bot id = 8633995913)
+2026-06-03 20:49:53,439 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:53,440 - aiogram.dispatcher - WARNING - Sleep for 5.161481 seconds and try again... (tryings = 10, bot id = 8633995913)
+2026-06-03 20:49:59,644 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:49:59,644 - aiogram.dispatcher - WARNING - Sleep for 5.098843 seconds and try again... (tryings = 11, bot id = 8633995913)
+2026-06-03 20:50:05,786 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:05,787 - aiogram.dispatcher - WARNING - Sleep for 5.142262 seconds and try again... (tryings = 12, bot id = 8633995913)
+2026-06-03 20:50:11,974 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:11,974 - aiogram.dispatcher - WARNING - Sleep for 5.101912 seconds and try again... (tryings = 13, bot id = 8633995913)
+2026-06-03 20:50:18,096 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:18,096 - aiogram.dispatcher - WARNING - Sleep for 4.879313 seconds and try again... (tryings = 14, bot id = 8633995913)
+2026-06-03 20:50:24,023 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:24,023 - aiogram.dispatcher - WARNING - Sleep for 5.172325 seconds and try again... (tryings = 15, bot id = 8633995913)
+2026-06-03 20:50:30,229 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:30,229 - aiogram.dispatcher - WARNING - Sleep for 4.907085 seconds and try again... (tryings = 16, bot id = 8633995913)
+2026-06-03 20:50:36,187 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:36,187 - aiogram.dispatcher - WARNING - Sleep for 4.950251 seconds and try again... (tryings = 17, bot id = 8633995913)
+2026-06-03 20:50:42,199 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:42,200 - aiogram.dispatcher - WARNING - Sleep for 5.025597 seconds and try again... (tryings = 18, bot id = 8633995913)
+2026-06-03 20:50:48,267 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:48,267 - aiogram.dispatcher - WARNING - Sleep for 5.027901 seconds and try again... (tryings = 19, bot id = 8633995913)
+2026-06-03 20:50:54,382 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:50:54,383 - aiogram.dispatcher - WARNING - Sleep for 4.973951 seconds and try again... (tryings = 20, bot id = 8633995913)
+2026-06-03 20:51:00,403 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:51:00,403 - aiogram.dispatcher - WARNING - Sleep for 4.967423 seconds and try again... (tryings = 21, bot id = 8633995913)
+2026-06-03 20:51:06,420 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:51:06,421 - aiogram.dispatcher - WARNING - Sleep for 5.146341 seconds and try again... (tryings = 22, bot id = 8633995913)
+2026-06-03 20:51:12,614 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: 
+2026-06-03 20:51:12,614 - aiogram.dispatcher - WARNING - Sleep for 5.190067 seconds and try again... (tryings = 23, bot id = 8633995913)
+2026-06-03 20:51:18,803 - aiogram.dispatcher - INFO - Connection established (tryings = 24, bot id = 8633995913)
+2026-06-03 20:51:24,732 - httpx - INFO - HTTP Request: POST https://api.xiaomimimo.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-03 20:51:25,278 - aiogram.event - INFO - Update id=133686050 is handled. Duration 6474 ms by bot id=8633995913
+2026-06-03 21:11:44,501 - aiogram.dispatcher - INFO - Start polling
+2026-06-03 21:11:45,458 - aiogram.dispatcher - INFO - Run polling for bot @hutaogiantessbot id=8633995913 - '晓冰'
