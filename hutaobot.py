@@ -20,9 +20,9 @@ logger = logging.getLogger(__name__)
 
 # ============ 配置 ============
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-API_URL = os.getenv("API_URL", "https://api.xiaomimimo.com/v1/chat/completions")
+API_URL = os.getenv("API_URL", "https://openrouter.ai/api/v1/chat/completions")
 API_KEY = os.getenv("API_KEY")
-MODEL = os.getenv("MODEL", "mimo-v2.5")
+MODEL = os.getenv("MODEL", "gryphe/mythomax-l2-13b")
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
 # 系统提示词 —— 允许18+内容
