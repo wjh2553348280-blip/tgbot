@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = os.getenv("BOT_TOKEN") or "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 API_KEY = "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"
-MODEL = "meta-llama/llama-3.3-70b-instruct"
+MODEL = "x-ai/grok-4.3"
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
 # 系统提示词 —— 允许18+内容
