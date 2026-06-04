@@ -80,7 +80,7 @@ async def ask_mimo(messages: list[dict]) -> str:
         "model": MODEL,
         "messages": messages,
         "temperature": 0.9,
-        "max_tokens": 512,
+        "max_tokens": 2048,
         "thinking": {"type": "disabled"},
     }
 
