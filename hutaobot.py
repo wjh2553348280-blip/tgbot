@@ -20,9 +20,9 @@ logger = logging.getLogger(__name__)
 
 # ============ 配置 ============
 BOT_TOKEN = os.getenv("BOT_TOKEN") or "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E"
-API_URL = "https://openrouter.ai/api/v1/chat/completions"
-API_KEY = "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"
-MODEL = "x-ai/grok-4.3"
+API_URL = "https://api.x.ai/v1/chat/completions"
+API_KEY = "xai-QrFAac9NSwZzKxPxQQwnIuAj25uE3ns70CSo5PaErshjeLF3NzDpiPEds1Q0KDn0pcyOrWGjALCSFkpz"
+MODEL = "grok-3"
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
 # 系统提示词 —— 允许18+内容
