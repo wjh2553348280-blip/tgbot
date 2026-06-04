@@ -56,7 +56,7 @@ dp = Dispatcher()
 # 每个用户的对话历史 {user_id: [messages]}
 chat_histories: dict[int, list[dict]] = {}
 # 每个用户最多保留多少轮对话
-MAX_HISTORY = 100
+MAX_HISTORY = 20
 
 
 def get_history(user_id: int) -> list[dict]:
