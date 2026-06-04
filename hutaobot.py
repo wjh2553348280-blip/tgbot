@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 # ============ 配置 ============
 BOT_TOKEN = os.getenv("BOT_TOKEN") or "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-API_KEY = "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"
+API_KEY = "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"
 MODEL = "mistralai/mistral-small-3.1-24b-instruct"
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
