@@ -19,9 +19,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============ 配置 ============
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E")
 API_URL = os.getenv("API_URL", "https://openrouter.ai/api/v1/chat/completions")
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("API_KEY", "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")
 MODEL = os.getenv("MODEL", "mistralai/mistral-small-3.1-24b-instruct")
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
@@ -81,7 +81,6 @@ async def ask_mimo(messages: list[dict]) -> str:
         "messages": messages,
         "temperature": 0.9,
         "max_tokens": 2048,
-        "thinking": {"type": "disabled"},
     }
 
     async with httpx.AsyncClient(timeout=60.0) as client:
@@ -206,8 +205,8 @@ async def handle_message(message: types.Message):
 
 async def main():
     print("[Bot] 小狐狸机器人启动中...")
-    print(f"[Bot] API_KEY: {API_KEY}")
-    print(f"[Bot] BOT_TOKEN: {BOT_TOKEN}")
+    print(f"[Bot] API_KEY 已设置: {'是' if API_KEY else '否'}")
+    print(f"[Bot] BOT_TOKEN 已设置: {'是' if BOT_TOKEN else '否'}")
     print(f"[Bot] API_URL: {API_URL}")
     print(f"[Bot] MODEL: {MODEL}")
     await dp.start_polling(bot)
