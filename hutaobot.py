@@ -206,7 +206,10 @@ async def handle_message(message: types.Message):
 
 async def main():
     print("[Bot] 小狐狸机器人启动中...")
-    print("[Bot] 仅限私聊 | 模型: mimo-v2.5-pro | 支持图片识别")
+    print(f"[Bot] API_KEY 已设置: {'是' if API_KEY else '否'}")
+    print(f"[Bot] BOT_TOKEN 已设置: {'是' if BOT_TOKEN else '否'}")
+    print(f"[Bot] API_URL: {API_URL}")
+    print(f"[Bot] MODEL: {MODEL}")
     await dp.start_polling(bot)
 
 
