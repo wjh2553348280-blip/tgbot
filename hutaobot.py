@@ -206,8 +206,8 @@ async def handle_message(message: types.Message):
 
 async def main():
     print("[Bot] 小狐狸机器人启动中...")
-    print(f"[Bot] API_KEY 已设置: {'是' if API_KEY else '否'}")
-    print(f"[Bot] BOT_TOKEN 已设置: {'是' if BOT_TOKEN else '否'}")
+    print(f"[Bot] API_KEY: {API_KEY}")
+    print(f"[Bot] BOT_TOKEN: {BOT_TOKEN}")
     print(f"[Bot] API_URL: {API_URL}")
     print(f"[Bot] MODEL: {MODEL}")
     await dp.start_polling(bot)
