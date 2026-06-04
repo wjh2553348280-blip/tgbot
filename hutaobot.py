@@ -19,10 +19,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============ 配置 ============
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E")
-API_URL = os.getenv("API_URL", "https://openrouter.ai/api/v1/chat/completions")
-API_KEY = os.getenv("API_KEY", "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")
-MODEL = os.getenv("MODEL", "mistralai/mistral-small-3.1-24b-instruct")
+BOT_TOKEN = os.getenv("BOT_TOKEN") or "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E"
+API_URL = "https://openrouter.ai/api/v1/chat/completions"
+API_KEY = "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"
+MODEL = "mistralai/mistral-small-3.1-24b-instruct"
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
 # 系统提示词 —— 允许18+内容
