@@ -22,7 +22,7 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = os.getenv("BOT_TOKEN") or "8633995913:AAH1ch2mP-is0_rMKcqqw4sxPeLLQqd-c0E"
 API_URL = "https://api.x.ai/v1/chat/completions"
 API_KEY = "xai-QrFAac9NSwZzKxPxQQwnIuAj25uE3ns70CSo5PaErshjeLF3NzDpiPEds1Q0KDn0pcyOrWGjALCSFkpz"
-MODEL = "grok-3"
+MODEL = "grok-4.3"
 PROXY_URL = os.getenv("PROXY_URL", "")  # Railway 不需要代理
 
 # 系统提示词 —— 允许18+内容
