@@ -87,6 +87,7 @@ async def ask_mimo(messages: list[dict]) -> str:
         "messages": messages,
         "temperature": 0.9,
         "max_tokens": 2048,
+        "personality": "wild",
     }
 
     async with httpx.AsyncClient(timeout=60.0) as client:
